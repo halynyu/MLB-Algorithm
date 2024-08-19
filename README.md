@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Heo-Jeong-Eun"><b>Yu Halyn</b></td>
-    <td align="center"><a href="https://github.com/pushedrumex"><b>Lee Uiseok</b></td>
+    <td align="center"><a href="https://github.com/Ui-Seok"><b>Lee Uiseok</b></td>
   </tr>
   <tr>
     <td align="center"><strong>Python</strong></td>
