@@ -2,10 +2,10 @@ import sys
 input = sys.stdin.readline
 
 n = int(input())
-list = []
+arr = []
 
 for _ in range(n):
-    list.append(int(input()))
+    arr.append(int(input()))
     
-for i in sorted(list):
+for i in sorted(arr):
     print(i)
